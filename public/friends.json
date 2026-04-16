@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://i.pravatar.cc/150?u=1",
+    "email": "david@example.com",
+    "days_since_contact": 2,
+    "status": "Almost Due",
+    "tags": ["Work"],
+    "bio": "Former colleague, great mentor.",
+    "goal": 14,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/150?u=2",
+    "email": "emma@example.com",
+    "days_since_contact": 5,
+    "status": "On-Track",
+    "tags": ["Family"],
+    "bio": "Sister living in Seattle.",
+    "goal": 7,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://i.pravatar.cc/150?u=3",
+    "email": "lisa@example.com",
+    "days_since_contact": 20,
+    "status": "Overdue",
+    "tags": ["Work"],
+    "bio": "Marketing lead at previous startup.",
+    "goal": 14,
+    "next_due_date": "2026-04-01"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://i.pravatar.cc/150?u=4",
+    "email": "james@example.com",
+    "days_since_contact": 8,
+    "status": "Almost Due",
+    "tags": ["Hobby", "Travel"],
+    "bio": "Met during the Japan trip.",
+    "goal": 10,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 5,
+    "name": "Michael Chen",
+    "picture": "https://i.pravatar.cc/150?u=5",
+    "email": "michael@example.com",
+    "days_since_contact": 1,
+    "status": "On-Track",
+    "tags": ["College"],
+    "bio": "Study buddy from CS class.",
+    "goal": 30,
+    "next_due_date": "2026-05-10"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Jenkins",
+    "picture": "https://i.pravatar.cc/150?u=6",
+    "email": "sarah@example.com",
+    "days_since_contact": 25,
+    "status": "Overdue",
+    "tags": ["Close Friend"],
+    "bio": "Childhood best friend.",
+    "goal": 7,
+    "next_due_date": "2026-03-25"
+  },
+  {
+    "id": 7,
+    "name": "Alex Rivera",
+    "picture": "https://i.pravatar.cc/150?u=7",
+    "email": "alex@example.com",
+    "days_since_contact": 12,
+    "status": "On-Track",
+    "tags": ["Hobby"],
+    "bio": "Part of the local football club.",
+    "goal": 14,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 8,
+    "name": "Priya Sharma",
+    "picture": "https://i.pravatar.cc/150?u=8",
+    "email": "priya@example.com",
+    "days_since_contact": 3,
+    "status": "On-Track",
+    "tags": ["Work"],
+    "bio": "Current project manager.",
+    "goal": 7,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Boaz",
+    "picture": "https://i.pravatar.cc/150?u=9",
+    "email": "daniel@example.com",
+    "days_since_contact": 15,
+    "status": "Almost Due",
+    "tags": ["College"],
+    "bio": "Old roommate from dorms.",
+    "goal": 20,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 10,
+    "name": "Sophia Rossi",
+    "picture": "https://i.pravatar.cc/150?u=10",
+    "email": "sophia@example.com",
+    "days_since_contact": 45,
+    "status": "Overdue",
+    "tags": ["Travel"],
+    "bio": "Met in Italy last summer.",
+    "goal": 30,
+    "next_due_date": "2026-03-10"
+  }
+]
